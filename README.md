@@ -21,8 +21,8 @@ cd kelp-task
 
 ### 2. Install Dependencies
 
-npm init -y
-npm install express pg dotenv
+npm install
+
 
 ### 3. Create a .env File
 PORT=3000
